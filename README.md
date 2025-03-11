@@ -22,8 +22,8 @@ This repository showcases my projects, security tools, and research focused on d
 | Network Traffic Monitoring                   | <a href="https://google.com">Active Directory Project</a> |
 | Configuring a Windows Domain Controller      | <a href="https://google.com">Active Directory Project</a> |
 | Ethical Hacking Methods                      | <a href="https://google.com">Active Directory Project</a> |
-| Network Infrastructure Design                | <a href="https://google.com">Network Security Project</a> |
-| Security Hardening (ACLs, NAT, SSH)          | <a href="https://google.com">Network Security Project</a> |
+| Network Infrastructure Design                | <a href="https://github.com/cydreyes/Network-Infrastructure-Design-and-Security-Implementation/tree/main">Network Security Project</a> |
+| Security Hardening (ACLs, NAT, SSH)          | <a href="https://github.com/cydreyes/Network-Infrastructure-Design-and-Security-Implementation/tree/main">Network Security Project</a> |
 
 
 
