@@ -29,7 +29,7 @@ This repository showcases my projects, security tools, and research focused on d
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Active Directory & Secure Monitoring  
 <div>
