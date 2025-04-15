@@ -55,7 +55,7 @@ This repository showcases my projects, security tools, and research focused on d
 
 ## Certifications
 <div>
- <img src="https://img.shields.io/badge/-Security%2B_(In_Progress)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Security%2B_-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
