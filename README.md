@@ -45,7 +45,7 @@ This repository showcases my projects, security tools, and research focused on d
 </div>  
 </div>
 
-### Kali Linux & Offensive Security  
+### Offensive Security  
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
 </div>  
