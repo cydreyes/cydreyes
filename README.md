@@ -27,8 +27,8 @@ This repository showcases my projects, security tools, and research focused on d
 | Configuring a Windows Domain Controller      | <a href=https://github.com/cydreyes/Active-Directory-Project/blob/main/README.md>Active Directory Project</a> |
 | Ethical Hacking Methods                      | <a href=https://github.com/cydreyes/Active-Directory-Project/blob/main/README.md>Active Directory Project</a> |
 | Network Infrastructure Design                | <a href="https://github.com/cydreyes/Network-Infrastructure-Design-and-Security-Implementation/tree/main">Network Security Project</a> |
-| Vulnerabilty Mangement                       | <a href="https://github.com/cydreyes/vulnerability-management-program">Vulnerability Management Program</a> |
-
+| Vulnerability Scanning and Risk Assessment   | <a href="https://github.com/cydreyes/vulnerability-management-program">Vulnerability Management Program</a> |
+| Incident Response Workflow                   | <a href="https://github.com/cydreyes/vulnerability-management-program">Vulnerability Management Program</a> |
 
 
 
@@ -49,6 +49,11 @@ This repository showcases my projects, security tools, and research focused on d
 </div>  
 </div>
 
+### Vulnerability Mangement 
+<div>
+<img src="https://img.shields.io/badge/-Nessus-00B1E4?&style=for-the-badge&logo=shield&logoColor=white" />
+<div>
+
 ### Offensive Security  
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
@@ -56,6 +61,10 @@ This repository showcases my projects, security tools, and research focused on d
 
 ### Network Design & Implementation 
 <div> <img src="https://img.shields.io/badge/-Packet_Tracer-00A4E4?&style=for-the-badge&logo=Cisco&logoColor=white" /> </div>
+
+### Cloud
+ <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+
 
 ## Certifications
 <div>
