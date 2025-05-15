@@ -56,7 +56,9 @@ This repository showcases my projects, security tools, and research focused on d
 ## Certifications
 <div>
  <img src="https://img.shields.io/badge/-Security%2B_-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+ <img src="https://img.shields.io/badge/-CCNA_(in_progress)-0A66C2?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
+
 
 ## Projects
 - <a href=https://github.com/cydreyes/Active-Directory-Project/blob/main/README.md>Active Directory Project</a> 
