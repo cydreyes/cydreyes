@@ -59,5 +59,5 @@ This repository showcases my projects, security tools, and research focused on d
 </div>
 
 ## Projects
-- Active Directory Project
-- Network Infrastructure Design and Security Implementation
+- <a href=https://github.com/cydreyes/Active-Directory-Project/blob/main/README.md>Active Directory Project</a> 
+- <a href="https://github.com/cydreyes/Network-Infrastructure-Design-and-Security-Implementation/tree/main">Network Security Project</a>
