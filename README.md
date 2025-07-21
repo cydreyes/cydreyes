@@ -35,39 +35,45 @@ This repository showcases my projects, security tools, and research focused on d
 | Threat Hunting                 | <a href="https://github.com/cydreyes/threat-hunting-tor/blob/main/README.md">Threat Hunt Report: Unauthorized TOR Usage</a> |
 
 
-
 ## Tools
-
 
 ### Active Directory & Secure Monitoring  
 <div>
     <img src="https://img.shields.io/badge/-Windows_Server-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sysmon-4479A1?&style=for-the-badge&logo=Windows&logoColor=white" />
-   
 </div>  
 
-### SIEM
+### Threat Hunting & EDR  
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-5E5E5E?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kusto_Query_Language_(KQL)-008272?&style=for-the-badge&logo=AzureDataExplorer&logoColor=white" />
+</div>
+
+### SIEM  
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>  
-</div>
 
-### Vulnerability Mangement 
+### Vulnerability Management  
 <div>
-<img src="https://img.shields.io/badge/-Nessus-00B1E4?&style=for-the-badge&logo=shield&logoColor=white" />
-<div>
+    <img src="https://img.shields.io/badge/-Nessus-00B1E4?&style=for-the-badge&logo=shield&logoColor=white" />
+</div>
 
 ### Offensive Security  
 <div>
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
 </div>  
 
-### Network Design & Implementation 
-<div> <img src="https://img.shields.io/badge/-Packet_Tracer-00A4E4?&style=for-the-badge&logo=Cisco&logoColor=white" /> </div>
+### Network Design & Implementation  
+<div>
+    <img src="https://img.shields.io/badge/-Packet_Tracer-00A4E4?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>  
 
-### Cloud
- <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
+### Cloud  
+<div>
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
 
 
 ## Certifications
