@@ -14,9 +14,11 @@ This repository showcases my projects, security tools, and research focused on d
  My goal is to transition into a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills in monitoring, analyzing, and mitigating cyber threats.  
  
 ## Projects
+- <a href="(https://github.com/cydreyes/threat-hunting-tor/blob/main/README.md)">Threat Hunt Report: Unauthorized TOR Usage</a>
 - <a href="https://github.com/cydreyes/vulnerability-management-program">Vulnerability Management Program</a>
 - <a href=https://github.com/cydreyes/Active-Directory-Project/blob/main/README.md>Active Directory Project</a> 
 - <a href="https://github.com/cydreyes/Network-Infrastructure-Design-and-Security-Implementation/tree/main">Network Security Project</a>
+
 
 
 ## Skills  
@@ -30,6 +32,7 @@ This repository showcases my projects, security tools, and research focused on d
 | Network Infrastructure Design                | <a href="https://github.com/cydreyes/Network-Infrastructure-Design-and-Security-Implementation/tree/main">Network Security Project</a> |
 | Vulnerability Scanning and Risk Assessment   | <a href="https://github.com/cydreyes/vulnerability-management-program">Vulnerability Management Program</a> |
 | Incident Response Workflow                   | <a href="https://github.com/cydreyes/vulnerability-management-program">Vulnerability Management Program</a> |
+| Threat Hunting                 | <a href="(https://github.com/cydreyes/threat-hunting-tor/blob/main/README.md)">Threat Hunt Report: Unauthorized TOR Usage</a> |
 
 
 
